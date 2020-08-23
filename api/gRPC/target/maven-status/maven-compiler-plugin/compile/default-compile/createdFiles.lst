@@ -1,0 +1,10 @@
+com/red/one/drool/proto/HelloRequest.class
+com/red/one/drool/proto/HelloRequest$1.class
+com/red/one/drool/proto/HelloServiceOuterClass$1.class
+com/red/one/drool/proto/HelloResponse$1.class
+com/red/one/drool/proto/HelloRequest$Builder.class
+com/red/one/drool/proto/HelloRequestOrBuilder.class
+com/red/one/drool/proto/HelloResponse.class
+com/red/one/drool/proto/HelloResponseOrBuilder.class
+com/red/one/drool/proto/HelloResponse$Builder.class
+com/red/one/drool/proto/HelloServiceOuterClass.class
